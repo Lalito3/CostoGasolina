@@ -66,7 +66,7 @@ private fun  calcularMonto(precio: Double, cantLitros:Double, propina:Double, pr
 /*de aplicar un signo de $*/
 }
 
-private const val s = "AgregarPropina"
+
 
 @Composable
 fun CostGasLayout(name: String) {
